@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">ÉmilieTask</string>
+    <string name="description">Image will be downloaded once user clicks on button</string>
+    <string name="download_txt">Download</string>
+    <string name="network_message">Network is disconnected. Please check your connectivity</string>
+    <string name="preference_file_ame">Language</string>
+    <string name="preference_key_ame">SelectedLanguage</string>
+
+    <array name="languages" tools:ignore="InconsistentArrays">
+        <item>English</item>
+        <item>Hindi</item>
+        <item>Telugu</item>
+    </array>
+</resources>

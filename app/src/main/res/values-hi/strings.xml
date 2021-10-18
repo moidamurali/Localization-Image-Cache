@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">एमिली टास्क</string>
+    <string name="description">उपयोगकर्ता द्वारा बटन पर क्लिक करने के बाद छवि डाउनलोड हो जाएगी</string>
+    <string name="download_txt">डाउनलोड</string>
+    <string name="network_message">नेटवर्क डिस्कनेक्ट हो गया है। कृपया अपनी कनेक्टिविटी जांचें</string>
+    <string name="preference_file_ame">Language</string>
+    <string name="preference_key_ame">SelectedLanguage</string>
+
+    <array name="languages">
+        <item>अंग्रेज़ी</item>
+        <item>हिंदी</item>
+        <item>तेलुगू</item>
+    </array>
+</resources>

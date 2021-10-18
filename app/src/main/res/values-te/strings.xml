@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">ఎమిలీ టాస్క్</string>
+    <string name="description">యూజర్ బటన్‌ను క్లిక్ చేసిన తర్వాత చిత్రం డౌన్‌లోడ్ చేయబడుతుంది</string>
+    <string name="download_txt">డౌన్‌లోడ్ చేయండి</string>
+    <string name="network_message">నెట్‌వర్క్ డిస్‌కనెక్ట్ చేయబడింది. దయచేసి మీ కనెక్టివిటీని చెక్ చేయండి</string>
+    <string name="preference_file_ame">Language</string>
+    <string name="preference_key_ame">SelectedLanguage</string>
+
+    <array name="languages" tools:ignore="InconsistentArrays">
+        <item>ఆంగ్లం</item>
+        <item>హిందీ</item>
+        <item>తెలుగు</item>
+    </array>
+</resources>
